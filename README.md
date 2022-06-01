@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on frontendmentor.io projects.
-- 🌱 I’m currently learning frontend more deeply.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about web develpement stuffs.
