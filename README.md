@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🌱 I’m currently building a blogging app.
+- 🧑 I'm Javascript Full Stack Developer.
+- 🌱 I’m currently learning data structures and algorithms.
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about web develpement stuffs.
