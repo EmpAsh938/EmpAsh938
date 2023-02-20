@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning data structures and algorithms. -->
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about web develpement stuffs.
+- 💬 Ask me about web development stuffs.
 - 📫 How to reach me: ashok.rtw.0.9@gmail.com
 <!-- 😄 Pronouns: ...
 -->
